@@ -20,7 +20,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizaahmad14&layout=compact&theme=radical)](https://github.com/Fizaahmad14/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fizaahmad14&layout=compact&theme=radical)
 ![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=Fizaahmad14&show_icons=true&count_private=true&theme=radical)
 
 Feel free to reach out to me if you have any questions or opportunities for collaboration. I'm always eager to learn and explore new technologies.
