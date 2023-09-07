@@ -1,7 +1,7 @@
 # Hi 👋 I am Fiza Ahmad
 ## NUCES FAST ISLAMABAD <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/National_University_of_Computer_and_Emerging_Sciences_logo.png" alt="Nuces-Fast" width="30" height="30"> 
 
-🌱 I am a 4th-year student pursuing a Bachelor's degree in Computer Science (BSCS) at NUCES-FAST ISB (National University of Computing and Emerging Sciences FAST, Islamabad). With a passion for programming and problem-solving, I strive to expand my knowledge and skills in the field of software development.
+🌱 I am a student pursuing a Bachelor's degree in Computer Science (BSCS) at NUCES-FAST ISB (National University of Computing and Emerging Sciences FAST, Islamabad). With a passion for programming and problem-solving, I strive to expand my knowledge and skills in the field of software development.
 
 ![GitHub followers](https://img.shields.io/github/followers/Fizaahmad14?style=social)
 
